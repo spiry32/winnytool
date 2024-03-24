@@ -10,6 +10,9 @@ You have 2 options :
                              -OR-
                              
 - Just run the .exe
+
+# BUGS!!! ⚠️
+* Some apps may not download correctly, because of the download link. Fixing that in the new version.
 # Media
 ![image](https://github.com/spiry32/winnytool/assets/103727459/3d9b30de-da20-4427-bfa6-5efb713631a0)
 
