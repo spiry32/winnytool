@@ -14,8 +14,7 @@ You have 2 options :
 # BUGS!!! ⚠️
 * Some apps may not download correctly, because of the download link. Fixing that in the new version.
 # Media
-![image](https://github.com/spiry32/winnytool/assets/103727459/3d9b30de-da20-4427-bfa6-5efb713631a0)
 
-![image](https://github.com/spiry32/winnytool/assets/103727459/1c7e8ad5-7cc5-4180-bd46-aa20255bfe24)
+https://github.com/spiry32/winnytool/assets/103727459/81ecb26a-fd9c-42c4-a5a1-81084a5927de
 
-![image](https://github.com/spiry32/winnytool/assets/103727459/1a651b7c-6374-4b12-b628-7af8ead5af16)
+
