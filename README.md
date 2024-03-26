@@ -18,14 +18,16 @@ Go must be installed [https://go.dev/doc/install]
 <details>
 <summary> Update 1.2<i>
 </i></summary>
-👁️
+working on 1.2... (new apps, and maybe some fixes)
 </details>
 
 
 <details>
 <summary> Update 1.1<i>
 </i></summary>
-
+ 
+*date 25.03.2024*
+ 
 Added new categories like 
 
 *Developer Tools*
@@ -54,7 +56,7 @@ Added new categories like
 </details>
 
 # Media
-ver 1.0
+ver 1.0 24.03.2024
 
 https://github.com/spiry32/winnytool/assets/103727459/81ecb26a-fd9c-42c4-a5a1-81084a5927de
 # Tested on
