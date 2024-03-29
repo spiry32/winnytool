@@ -47,7 +47,7 @@ Go must be installed [https://go.dev/doc/install]
 -	Streamlabs,
   *Utilities*
 
-- AnyBurn,=;
+- AnyBurn;
   
  *Messaging*
 
