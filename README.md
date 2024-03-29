@@ -23,8 +23,40 @@ Go must be installed [https://go.dev/doc/install]
 <details>
 <summary> Update 1.2<i>
 </i></summary>
-working on 1.2... (new apps, and maybe some fixes)
-</details>
+ 
+*date 29.03.2024*
+
+**NEW CATEGORIES**
+- OFFICE - with Foxit PDF Reader and OpenOffice
+- Security - with AVG Antivirus and Avast Antivirus
+
+ New applications added:  
+
+*Developer Tools*
+
+- Visual Studio Code,
+  
+-	Visual Studio,
+  
+-	Sublime Text;
+  
+ *Media*
+
+- OBS,
+  
+-	Streamlabs,
+  *Utilities*
+
+- AnyBurn,=;
+  
+ *Messaging*
+
+- Telegram,
+  
+-	Viber;
+  ![image](https://github.com/spiry32/winnytool/assets/103727459/ed431a5c-b127-44e0-8b4d-a5f6c97f147d)
+
+  </details>
 
 
 <details>
