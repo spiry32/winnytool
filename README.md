@@ -1,6 +1,6 @@
 <p align="center">
  <a href=""><img color="white" width="100px" src="https://imgs.search.brave.com/T_C1euQnUxt5VVIc6xg-hx54Dq1F-jZ2U1eTcpcNtYE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMi9XaW5k/b3dzLUxvZ28ucG5n" /></a>
- <a href="https://himdek.com/Windows-Activator/"><h1 align="center">winnytool 1.2</h1></a>
+ <a href="https://himdek.com/Windows-Activator/"><h1 align="center">winnytool 1.3</h1></a>
  <p align="center">WinnyTool is a Windows 10/11 Tool created to install apps faster via a terminal.</p>
 </p>
 
@@ -19,6 +19,49 @@ Works without installing golang
 2 Build the app.go file using **go build -o app.exe app.go**
 
 Go must be installed [https://go.dev/doc/install]
+
+<details>
+<summary> Update 1.3<i>
+</i></summary>
+ 
+*date 02.04.2024*
+
+**What's new? (check the video for examples)**
+
+[+] Now you can download multiple apps 
+
+[+] A percentage progress bar has been added to view live the download progress of an executable.
+
+[+] Uninstall Edge option (please disable Windows Defender, besides the fact that it's a stupid "antivirus", it also thinks that the application that uninstalls Edge is a virus...)
+
+ New applications added:  
+
+*Browsers*
+
+- Librewolf,
+  
+-	Waterfox,
+  
+-	Thorium ;
+  
+- Floorp,
+  
+-	Tor Browser,
+  
+-	Avast Secure Browser ;
+  
+ *Messaging*
+
+- Microsoft Teams,
+  
+-	Thunderbird;
+  
+  *Utilities*
+
+- (MiniTool Partition Wizard ;
+  
+  </details>
+
 
 <details>
 <summary> Update 1.2<i>
