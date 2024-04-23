@@ -22,9 +22,7 @@ You have 2 options :
  
 *date 23.04.2024*
 
-[+] NEW : Windows 10/11 Activation thanks to : [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts)
-
-[+] NEW : Windows 10 LTSC Activation thanks to : [massgravel](https://github.com/massgravel/Microsoft-Activation-Scripts)
+[+] NEW : Windows 10/11/LTSC Activation thanks to : [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
 [+] NEW : Uninstall Edge option (please disable Windows Defender, besides the fact that it's a stupid "antivirus", it also thinks that the application that uninstalls Edge is a virus...)
  thanks to : [ShadowWhisperer](https://github.com/ShadowWhisperer/Remove-MS-Edge)
@@ -42,7 +40,7 @@ You have 2 options :
 Gallery : 
 
 ![image](https://github.com/spiry32/winnytool/assets/103727459/4c94031c-750e-40da-976d-c7bcf60e9169)
-![image](https://github.com/spiry32/winnytool/assets/103727459/7a421358-e466-4234-8037-b9c221d65014)
+![image](https://github.com/spiry32/winnytool/assets/103727459/07a1dfa7-c2b8-4ea7-bf6d-99024dd767de)
 
 ![image](https://github.com/spiry32/winnytool/assets/103727459/d9f88146-ea4f-4d66-8b6a-6321704b3cd7)
 
