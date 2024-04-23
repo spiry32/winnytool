@@ -10,7 +10,7 @@ This is an updated version of one of my previous releases, [chocolatier](https:/
 # How to use?
 You have 2 options : 
 
-1 Just run the .exe (Works without installing golang)
+1 Just run the .exe as an Administrator (Works without installing golang)
  
                              -OR-
                              
