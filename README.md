@@ -32,6 +32,16 @@ Go must be installed [https://go.dev/doc/install]
 [+] NEW : Uninstall Edge option (please disable Windows Defender, besides the fact that it's a stupid "antivirus", it also thinks that the application that uninstalls Edge is a virus...)
  thanks to : [ShadowWhisperer](https://github.com/ShadowWhisperer/Remove-MS-Edge)
 
+ New applications added:  
+
+*Utilities*
+
+- BalenaEtcher (Installer),
+  
+-	BalenaEtcher (Portable),
+
+-	Rufus (4.4),
+
 Gallery : 
 
 ![image](https://github.com/spiry32/winnytool/assets/103727459/4c94031c-750e-40da-976d-c7bcf60e9169)
