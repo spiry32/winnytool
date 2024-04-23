@@ -10,15 +10,11 @@ This is an updated version of one of my previous releases, [chocolatier](https:/
 # How to use?
 You have 2 options : 
 
-1 Just run the .exe
-
-Works without installing golang
+1 Just run the .exe (Works without installing golang)
  
                              -OR-
                              
-2 Build the app.go file using **go build -o app.exe app.go**
-
-Go must be installed [https://go.dev/doc/install]
+2 Build the app.go file using **go build -o app.exe app.go** (Go must be installed [https://go.dev/doc/install])
 <details>
 <summary> Update 1.4<i>
 </i></summary>
