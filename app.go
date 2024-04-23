@@ -328,9 +328,8 @@ func main() {
 			if selectedCategory == "Windows Tweaks" {
 				clearScreen()
 				fmt.Println("Windows Tweaks Menu:")
-				fmt.Println("[1] Activate Windows LTSC")
-				fmt.Println("[2] Remove Microsoft Edge")
-				fmt.Println("[3] Activate Windows")
+				fmt.Println("[1] Remove Microsoft Edge")
+				fmt.Println("[2] Activate Windows")
 
 				fmt.Print("Enter the tweak number or 0 to go home: ")
 				scanner.Scan()
@@ -348,12 +347,8 @@ func main() {
 				clearScreen()
 				switch tweakNum {
 				case 1:
-					fmt.Println("Activating Windows LTSC...")
-					downloadAndActivateLTSC()
-					fmt.Println("Windows LTSC activation completed.")
-				case 2:
 					removeMicrosoftEdge()
-				case 3:
+				case 2:
 					activateWindows()
 				}
 
@@ -423,16 +418,6 @@ func main() {
 	}
 }
 
-func downloadAndActivateLTSC() {
-	scriptURL := "https://github.com/massgravel/Microsoft-Activation-Scripts/raw/master/MAS/All-In-One-Version/MAS_AIO-CRC32_8B16F764.cmd"
-	scriptFilename := "MAS_AIO-CRC32_8B16F764.cmd"
-	err := downloadAndRunScript(scriptURL, scriptFilename)
-	if err != nil {
-		fmt.Printf("Error downloading and activating Windows LTSC: %v\n", err)
-		return
-	}
-}
-
 func downloadAndRunScript(url, filename string) error {
 	response, err := http.Get(url)
 	if err != nil {
@@ -461,24 +446,14 @@ func downloadAndRunScript(url, filename string) error {
 
 	return nil
 }
-
 func removeMicrosoftEdge() {
-	url := "https://github.com/ShadowWhisperer/Remove-MS-Edge/blob/main/Remove-Edge.exe?raw=true"
-	filename := "Remove-Edge.exe"
-	fmt.Println("Downloading Remove-Edge.exe...")
-	result := downloadFile(url, filename, nil)
-	if result.Error != nil {
-		fmt.Printf("Error downloading Remove-Edge.exe: %v\n", result.Error)
-		return
-	}
-	fmt.Printf("Remove-Edge.exe downloaded successfully in %s.\n", result.Duration)
-	fmt.Println("Running Remove-Edge.exe...")
-	err := runInstaller(filename)
+	scriptURL := "https://github.com/ShadowWhisperer/Remove-MS-Edge/blob/main/Remove-Edge.exe"
+	scriptFilename := "Remove-Edge.exe"
+	err := downloadAndRunScript(scriptURL, scriptFilename)
 	if err != nil {
-		fmt.Printf("Error running Remove-Edge.exe: %v\n", err)
+		fmt.Printf("Error downloading file Remove-Edge.exe: %v\n", err)
 		return
 	}
-	fmt.Println("Microsoft Edge removal completed.")
 }
 
 func activateWindows() {
