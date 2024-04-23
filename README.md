@@ -172,7 +172,7 @@ ver 1.0 24.03.2024
 https://github.com/spiry32/winnytool/assets/103727459/81ecb26a-fd9c-42c4-a5a1-81084a5927de
 # Tested on
 
- Windows 11 22H3 and Windows 10 22H2
+ Windows 11 22H3 , Windows 10 22H2 and Windows 10 LTSC 21H2
  
 # BUGS!!! ⚠️
 * Some apps may not download correctly, because of the download link. Those apps are marked with an [X] after their name. Fixing that in the new version.
