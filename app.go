@@ -93,11 +93,9 @@ var categories = map[string][]string{
 		"MiniTool Partition Wizard",
 		"BalenaEtcher (Installer)",
 		"BalenaEtcher (Portable)",
-		"Rufus 4.4",
+		"Rufus",
 	},
-	"Windows Tweaks": {
-		"Activate Windows LTSC",
-	},
+	"Windows Tweaks": {},
 }
 
 var applications = map[string]string{
@@ -165,7 +163,7 @@ var applications = map[string]string{
 	"MiniTool Partition Wizard": "https://cdn2.minitool.com/?p=pw&e=pw-free",
 	"BalenaEtcher (Installer)":  "https://github.com/balena-io/etcher/releases/download/v1.18.11/balenaEtcher-Setup-1.18.11.exe",
 	"BalenaEtcher (Portable)":   "https://github.com/balena-io/etcher/releases/download/v1.18.11/balenaEtcher-Portable-1.18.11.exe",
-	"Rufus (ver 4.4)":           "https://github.com/pbatard/rufus/releases/download/v4.4/rufus-4.4.exe",
+	"Rufus":                     "https://github.com/pbatard/rufus/releases/download/v4.4/rufus-4.4.exe",
 	// Office
 	"Foxit PDF Reader": "https://www.foxit.com/downloads/latest.html?product=Foxit-Reader&platform=Windows&version=&package_type=&language=English&distID=",
 	"OpenOffice":       "https://sourceforge.net/projects/openofficeorg.mirror/files/4.1.15/binaries/en-US/Apache_OpenOffice_4.1.15_Win_x86_install_en-US.exe/download",
