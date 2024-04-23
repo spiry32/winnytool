@@ -8,16 +8,14 @@
 
 This is an updated version of one of my previous releases, [chocolatier](https://github.com/spiry32/chocolatier)
 # How to use?
-You have 3 options : 
+You have 2 options : 
 
-The simplest way : Open Powershell as Administrator and insert this 🔽
-
-                             irm https://bit.ly/winnytool -OutFile app.exe; Start-Process .\app.exe
-
-2 Just run the .exe as an Administrator (Works without installing golang)
- 
+1 👉🏼  Just run the .exe as an Administrator (Works without installing golang)
                              
-3 Build the app.go file using **go build -o app.exe app.go** (Go must be installed [https://go.dev/doc/install])
+2 👉🏼 Build the app.go file using **go build -o app.exe app.go** (Go must be installed [https://go.dev/doc/install])
+
+
+
 <details>
 <summary> Update 1.4<i>
 </i></summary>
