@@ -35,7 +35,8 @@ Go must be installed [https://go.dev/doc/install]
 Gallery : 
 
 ![image](https://github.com/spiry32/winnytool/assets/103727459/4c94031c-750e-40da-976d-c7bcf60e9169)
-![image](https://github.com/spiry32/winnytool/assets/103727459/a0dd5a9b-f4b8-4892-8c57-2e3ee896f9c0)
+![image](https://github.com/spiry32/winnytool/assets/103727459/7a421358-e466-4234-8037-b9c221d65014)
+
 ![image](https://github.com/spiry32/winnytool/assets/103727459/d9f88146-ea4f-4d66-8b6a-6321704b3cd7)
 
   
