@@ -5,6 +5,8 @@
 </p>
 
 **Check the [realeses page](https://github.com/spiry32/winnytool/releases) for downloads**
+
+Winnytool it is a continuation of one of my older project, [chocolatier](https://github.com/spiry32/chocolatier)
 # Media
 ver 1.0 24.03.2024
 
