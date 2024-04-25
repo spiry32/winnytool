@@ -126,6 +126,15 @@ func main() {
 			for i, num := range appNums {
 				selectedApps[i] = apps[num-1]
 			}
+			fmt.Printf("Are you sure you want to download the following apps?? (yes/no)\n%s\n", strings.Join(selectedApps, ", "))
+			scanner.Scan()
+			confirmation := scanner.Text()
+
+			if confirmation != "yes" {
+				fmt.Println("Operation cancelled. Back to menu...")
+				continue
+			}
+
 			downloadApps(selectedApps)
 
 			for _, installer := range selectedApps {
