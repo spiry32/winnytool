@@ -6,6 +6,8 @@
 
 **Check the [realeses page](https://github.com/spiry32/winnytool/releases) for downloads**
 
+For the pre-leases, check [v.1.5.2-alpha](https://github.com/spiry32/winnytool/releases/tag/v.1.5.2-alpha) 
+
 Winnytool it is a continuation of one of my older project, [chocolatier](https://github.com/spiry32/chocolatier)
 # Media
 ver 1.0 24.03.2024
