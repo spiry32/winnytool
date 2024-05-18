@@ -30,3 +30,9 @@ https://github.com/spiry32/winnytool/assets/103727459/81ecb26a-fd9c-42c4-a5a1-81
 # BUGS!!! ⚠️
 * None at the moment 😃
 
+# 💸 Donate 💸
+
+* If you want to support me more than by downloading and using the program, you can donate as much as you want.
+
+ <a href="paypal.me/alexyt25"><img color="white" width="100px" src="https://imgur.com/QqDkpts.png" /></a>
+
