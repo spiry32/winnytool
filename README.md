@@ -4,6 +4,16 @@
  <p align="center">WinnyTool is a Windows 10/11 Tool created to install apps faster via a terminal.</p>
 </p>
 
+
+<p class="buttons" align="center">
+ <a href="https://github.com/HimDek/Windows-Activator/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/spiry32/winnytool?style=flat-square&label=Issues" /></a>
+ <a href="https://github.com/HimDek/Windows-Activator/pulls"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/himdek/Windows-Activator?style=flat-square&label=Pull%20requests" /></a>
+ <a href="https://github.com/spiry32/winnytool/"><img src="https://img.shields.io/badge/GitHub-View%20sourcecode-blue?style=flat-square&logo=github&color=blueviolet" /></a>
+ <a href="https://github.com/HimDek/Windows-Activator/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/spiry32/winnytool?style=flat-square&label=Forks" /></a>
+ <a href="https://github.com/HimDek/Windows-Activator/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/spiry32/winnytool?style=flat-square&label=Stars" /></a>
+</p>
+
+
 **Check the [realeses page](https://github.com/spiry32/winnytool/releases) for downloads**
 
 For the latest pre-realese, check [v.1.5.2-alpha](https://github.com/spiry32/winnytool/releases/tag/v.1.5.2-alpha) 
