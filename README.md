@@ -1,6 +1,6 @@
 <p align="center">
  <a href=""><img color="white" width="100px" src="https://imgs.search.brave.com/T_C1euQnUxt5VVIc6xg-hx54Dq1F-jZ2U1eTcpcNtYE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMi9XaW5k/b3dzLUxvZ28ucG5n" /></a>
- <a href=""><h1 align="center">winnytool 1.5.1</h1></a>
+ <a href=""><h1 align="center">winnytool 1.5.2</h1></a>
  <p align="center">WinnyTool is a Windows 10/11 Tool created to install apps faster via a terminal.</p>
 </p>
 
