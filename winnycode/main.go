@@ -12,7 +12,7 @@ import (
 
 const (
 	maxConcurrentDownloads = 5
-	version                = "1.5.2"
+	version                = "1.5.4"
 )
 
 type DownloadResult struct {
