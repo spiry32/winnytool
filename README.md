@@ -19,9 +19,15 @@
 
 Winnytool it is a continuation of one of my older project, [chocolatier](https://github.com/spiry32/chocolatier)
 # Media
+ver 1.5.4 21.02.2025
+
+https://github.com/user-attachments/assets/55ef739f-dd04-40dd-937d-381f4969d0fa
+
 ver 1.0 24.03.2024
 
 https://github.com/spiry32/winnytool/assets/103727459/81ecb26a-fd9c-42c4-a5a1-81084a5927de
+
+
 # Tested on
 
  Windows 11 22H3 , Windows 10 22H2 and Windows 10 LTSC 21H2
